@@ -1,0 +1,48 @@
+#one{
+    height: 200px;
+    width: 200px;
+    background-color: turquoise;
+    transition: 1s;
+    margin: 0 auto;
+    margin-top: 10px;
+    transition: margin-top 2s ease-in 0.5s;
+}
+#one:hover{
+    background-color: maroon;
+    border-radius: 50%;
+    margin-top: 300px;
+    background-color: palevioletred;
+}
+#two{
+    height: 200px;
+    width: 200px;
+    background-color: goldenrod;
+    transition: 1s;
+    margin: 0 auto;
+    margin-top: 10px;
+    transition: margin-top 2s ease-in 0.5s;
+}
+#two:hover{
+    background-color: maroon;
+    border-radius: 50%;
+    margin-top: 300px;
+    background-color: mediumseagreen;
+}
+#three{
+    height: 200px;
+    width: 200px;
+    background-color: #9020da;
+    transition: 1s;
+    margin: 0 auto;
+    margin-top: 10px;
+    transition: margin-top 2s ease-in 0.5s;
+    margin-right: 50px;
+}
+#three:hover{
+    background-color: hsl(44, 100%, 25%);
+    border-radius: 50%;
+    margin-top: 300px;
+    background-color: rgb(4, 187, 86);
+    padding-left: 50px;
+    margin-left: 50px;
+}

@@ -1,0 +1,56 @@
+#outer{
+    height: 650px;
+    width: 300px;
+    border: 5px solid black;
+    margin-left: 200px;
+    background-color: #d3d3d3;
+}
+.inner {
+    height: 70px;
+    width: 70px;
+    border-radius: 50px;
+    margin-top: 25px;
+    margin-left: 35px;
+}
+.emoji1 {
+    font-size: 65px;
+    margin-left: 15px;
+
+}
+.emoji2 {
+    font-size: 65px;
+    margin-left: 45px;
+}
+.emoji3 {
+    font-size: 55px;
+    margin-left: 25px;
+}
+.emoji4 {
+    font-size: 35px;
+    margin-left: 25px;
+}
+.inner1 {
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    margin-left: 100px;
+}
+.inner2 {
+    height: 70px;
+    width: 70px;
+    border-radius: 50px;
+    margin-left: 25px;
+}
+.inner3 {
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    margin-left: 45px;
+}
+.inner4 {
+    height: 75px;
+    width: 75px;
+    border-radius: 50px;
+    margin-left: 100px;
+}
+

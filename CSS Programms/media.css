@@ -1,0 +1,27 @@
+h1 {
+    background-color: green;
+    color: black;
+    border: 2px solid black;
+}
+/*@media (width:500px){
+    h1{
+        background-color: red;
+        color: aqua;
+    }
+}*/
+@media (min-width:300px) {
+    h1 {
+        background-color: goldenrod;
+    }
+}
+@media (max-width:200px){
+    h1 {
+        background-color: deeppink;
+    }
+}
+@media (orientation: landscape){
+    h1{
+        background-color: yellowgreen;
+        color: blue;
+    }
+}

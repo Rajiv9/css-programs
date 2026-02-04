@@ -1,0 +1,9 @@
+h1 {
+    font-size: 100px;
+    font-family: papyrus;
+    line-height: 4.5;
+    color: maroon;
+    letter-spacing: 25px;
+    text-align: center;
+    text-decoration: black line-through;
+}

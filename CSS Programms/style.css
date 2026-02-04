@@ -1,0 +1,14 @@
+ h1
+ {
+     color:maroon;
+     background-color: forestgreen;
+ }
+p
+{
+    color: chartreuse;
+    background-color: black;
+}
+button {
+    color: crimson;
+    background-color: gold;
+}

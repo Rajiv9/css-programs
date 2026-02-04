@@ -1,0 +1,39 @@
+.emoji {
+    height: 400px;
+    width: 400px;
+    background-color: #FFCC33;
+    border-radius: 50%;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px auto;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 2) ;
+}
+.mouth {
+    width: 220px;
+    height: 100px;
+    background: black;
+    border-radius: 0 0 70px 70px ;
+    position: absolute;
+    bottom: 80px;
+}
+.eyeleft {
+    width: 80px;
+    height: 80px;
+    background: red;
+    position: absolute;
+    border-radius: 50%;
+    top: 80px;
+    left: 80px;
+}
+.eyeright
+ {
+    width: 80px;
+    height: 80px;
+    background: red;
+    position: absolute;
+    border-radius: 50%;
+    top: 80px;
+    left: 230px;
+ }
